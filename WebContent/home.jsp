@@ -7,6 +7,6 @@
 <title>GIT</title>
 </head>
 <body>
-	<h1>Practicando con GIT</h1>
+	<h1>Practicando GIT - JAVA WEB</h1>
 </body>
 </html>
